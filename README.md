@@ -1,4 +1,4 @@
-# Programming for Business Computing
+# Programming for Business Computing in Python
 An advanced python programming course designed for business school students which I finished in the 2020 fall semseter with an A+.
 This repository contains all the homework and exam code I've written throughout the semester.
 ## Table of Contents
