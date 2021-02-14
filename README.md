@@ -2,7 +2,7 @@
 An advanced python programming course designed for business school students which I finished in the 2020 fall semseter with an A+.
 This repository contains all the homework code I've written throughout the semester.
 ## Table of Contents
-*hw0: warm up (bonus)
++ hw0: warm up (bonus)
 calculating change
 *hw1: computers and conditionals
 calculating change but with restraints and binary decision tree
