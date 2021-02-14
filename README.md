@@ -4,20 +4,20 @@ This repository contains all the homework code I've written throughout the semes
 ## Table of Contents
 + hw0: warm up (bonus)
 calculating change
-*hw1: computers and conditionals
++ hw1: computers and conditionals
 calculating change but with restraints and binary decision tree
-*hw2: conditionals and iterations
++ hw2: conditionals and iterations
 algorithms and pricing problems
-*hw3: lists and algorithms
++ hw3: lists and algorithms
 algorithms and pricing problems
-*QUIZ
-*MIDTERM1
-*hw4: computational thinking
++ QUIZ
++ MIDTERM1
++ hw4: computational thinking
 knapsack problem and its implementation application in finance
-*hw5: functions, fruitful functions and strings
++ hw5: functions, fruitful functions and strings
 plotting and functions
-*hw6: data structures, file I/O and exceptions
++ hw6: data structures, file I/O and exceptions
 crawlers and machine learning
-*hw7: data structures, file I/O and exceptions
++ hw7: data structures, file I/O and exceptions
 crawlers and machine learning
-*MIDTERM2
++ MIDTERM2
