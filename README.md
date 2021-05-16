@@ -28,7 +28,7 @@ This repository contains all the homework and exam code I've written throughout 
 ##### hw7: data structures, file I/O and exceptions
 
   crawlers and machine learning
-##### hw7: classes
+##### hw8: classes
 
   classes and advanced topics 
 
